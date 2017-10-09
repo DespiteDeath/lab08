@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/DespiteDeath/lab05.svg?branch=master)](https://travis-ci.org/DespiteDeath/lab05)
+[![Build Status](https://travis-ci.org/DespiteDeath/lab06.svg?branch=master)](https://travis-ci.org/DespiteDeath/lab06)
 
 # lab03
 github
