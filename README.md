@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/DespiteDeath/lab08.svg?branch=master)](https://travis-ci.org/DespiteDeath/lab08)
+
 ## Laboratory work VI
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **Catch**
